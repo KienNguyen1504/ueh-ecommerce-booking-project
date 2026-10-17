@@ -1,0 +1,23 @@
+# Secrets - TUYỆT ĐỐI không đưa lên repo Public
+.env
+.env.*
+*.pem
+*.key
+secrets.json
+appsettings.Development.json
+
+# Dependencies và build
+node_modules/
+bin/
+obj/
+dist/
+build/
+__pycache__/
+vendor/
+
+# Hệ điều hành và IDE
+.DS_Store
+Thumbs.db
+.vs/
+.idea/
+*.log
