@@ -1,4 +1,4 @@
-# [TÊN DỰ ÁN – cập nhật sau khi nhóm chốt đề tài]
+# [PrintSlot – Website đặt dịch vụ in ấn tài liệu học tập/làm việc theo yêu cầu]
 
 ## 1. Giới thiệu
 Mô tả website và vấn đề kinh doanh cần giải quyết. (NV1 – Hoa)
