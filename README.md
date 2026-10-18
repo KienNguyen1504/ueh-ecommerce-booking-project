@@ -10,7 +10,7 @@ Mô tả nhóm người dùng chính. (NV1 – Hoa)
 Liệt kê các chức năng dự kiến. (lấy từ REQUIREMENTS.md – NV5)
 
 ## 4. Thành viên
-- Kiên – Trưởng nhóm: quản lý repo, GitHub Issues, điều phối, định dạng báo cáo
+- Kiên – Trưởng nhóm: quản lý repo, GitHub Issues (NV8), điều phối
 - Hoa – Xác định vấn đề kinh doanh (NV1), phân công vai trò (NV7)
 - Phương – Phân tích website tương tự (NV2)
 - Nhi – Phân tích website tương tự (NV2)
