@@ -62,7 +62,6 @@
 - Hưng – Quy trình nghiệp vụ (NV6)
 
 ## 5. Công nghệ dự kiến
-## 5. Công nghệ dự kiến
 | **STT** | **Công nghệ/giải pháp dự kiến** | **Mục đích sử dụng** | **Chức năng liên quan** |
 |---|---|---|---|
 | 1 | Công thức tính giá và xử lý dữ liệu đơn hàng | Xây dựng công thức tính giá dựa trên dịch vụ, thông số in, số lượng và bảng giá được cấu hình. Khi thông số thay đổi, hệ thống tính toán lại giá dự kiến và tổng tiền. | F07 – Tính giá tự động |
