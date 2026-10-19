@@ -1,6 +1,6 @@
 **PIC: Phạm Văn Thắng**
                                                                                                                   
-**NV3**
+**Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
 **Sử dụng Gemini để thực hiện phân tích**
 # Thông tin dự án
 
@@ -300,7 +300,7 @@ Các chức năng dưới đây **không thuộc phạm vi bàn giao đầu tiê
 | RSK-04        | Rò rỉ tài liệu học tập, báo cáo nghiên cứu, đề thi hoặc khóa luận chưa công bố. | **Rất Cao**    | Thấp         | Cam kết điều khoản bảo mật (NDA) trên Web. Thiết lập Script tự động xóa sạch file trên Server sau 30 ngày kể từ khi giao hàng.                                                          |
 | RSK-05        | Tiến độ dự án bị trễ do nhóm sinh viên thiếu thời gian hoặc kỹ năng lập trình.  | **Trung bình** | Trung bình   | Thực hiện phân kỳ rõ ràng: Chỉ tập trung làm xong 100% tính năng Bắt buộc (MVP). Không tham làm tính năng nâng cao (Nội thành giao hỏa tốc/Phân tích độ phủ mực) khi MVP chưa chạy tốt. |
 
-**NV4**
+**Nhiệm vụ 4 – Dùng một công cụ AI khác để phản biện**
 **Sử dụng Claude AI để phẩn biện lại**
 # 1. Dữ liệu đầu vào dùng để phản biện
 
