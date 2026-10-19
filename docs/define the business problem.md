@@ -1,4 +1,6 @@
-# Nhiệm vụ 1 – Lựa chọn đề tài và xác định vấn đề kinh doanh
+# Lựa chọn đề tài và xác định vấn đề kinh doanh
+
+Người phụ trách: Hoa (NV1)
 
 **Tên đề tài: “PrintSlot -  Website đặt dịch vụ in ấn tài liệu theo yêu cầu dành cho học sinh, sinh viên”.**
 
