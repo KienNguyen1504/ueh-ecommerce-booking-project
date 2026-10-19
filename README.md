@@ -62,7 +62,18 @@
 - Hưng – Quy trình nghiệp vụ (NV6)
 
 ## 5. Công nghệ dự kiến
-Ghi rõ công nghệ đã thống nhất. (chưa chốt)
+## 5. Công nghệ dự kiến
+| **STT** | **Công nghệ/giải pháp dự kiến** | **Mục đích sử dụng** | **Chức năng liên quan** |
+|---|---|---|---|
+| 1 | Công thức tính giá và xử lý dữ liệu đơn hàng | Xây dựng công thức tính giá dựa trên dịch vụ, thông số in, số lượng và bảng giá được cấu hình. Khi thông số thay đổi, hệ thống tính toán lại giá dự kiến và tổng tiền. | F07 – Tính giá tự động |
+| 2 | Hệ thống luật nghiệp vụ (Rule-based) | Xây dựng các quy tắc so sánh cấu hình in để đề xuất phương án có chi phí thấp hơn. Khách hàng có thể xem gợi ý và lựa chọn giữ nguyên hoặc áp dụng cấu hình được đề xuất. | F08 – Gợi ý cấu hình tiết kiệm |
+| 3 | Cơ chế đặt lịch và kiểm tra sức chứa | Quản lý khung giờ nhận đơn, lịch hoạt động và sức chứa được cấu hình. Hệ thống kiểm tra khả năng tiếp nhận trước khi xác nhận khung giờ cho khách hàng. | F11 – Đặt lịch và kiểm tra sức chứa |
+
+### Nguyên tắc lựa chọn công nghệ
+- Ưu tiên giải pháp phù hợp với thời gian, nguồn lực và khả năng triển khai của nhóm.
+- Ưu tiên các giải pháp dễ phát triển, kiểm thử và bảo trì trong phạm vi đồ án.
+- Chức năng gợi ý tiết kiệm ở phiên bản MVP sử dụng các quy tắc được thiết lập trước, chưa yêu cầu tích hợp trí tuệ nhân tạo (AI).
+- Nhóm sẽ thống nhất công nghệ triển khai chính thức sau khi hoàn thành việc phân tích yêu cầu và thiết kế hệ thống.
 
 ## 6. Kế hoạch thực hiện
 Tóm tắt các giai đoạn của dự án. (xem PROJECT_PLAN.md)
