@@ -53,7 +53,7 @@ Khách hàng đặt dịch vụ theo từng đơn in, với số lượng đư�
 
 Mô hình Value Proposition Canvas được sử dụng để xác định công việc, khó khăn và lợi ích mong đợi của khách hàng, từ đó xây dựng giải pháp có khả năng đáp ứng các nhu cầu quan trọng.
 
-![Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot](images/printslot-value-proposition-canvas.png)
+![Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot](printslot-value-proposition-canvas.png)
 
 *Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot (Hình ảnh có sử dụng AI).*
 
@@ -61,7 +61,7 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 
 ## 1.4. Website có điểm khác biệt gì so với các website tương tự?
 
-![Hình 1.2. Mô hình Sweet Spot của PrintSlot](images/printslot-sweet-spot.png)
+![Hình 1.2. Mô hình Sweet Spot của PrintSlot](printslot-sweet-spot.png)
 
 *Hình 1.2. Mô hình Sweet Spot của PrintSlot (Hình ảnh có sử dụng AI).*
 
