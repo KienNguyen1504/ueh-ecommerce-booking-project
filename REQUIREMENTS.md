@@ -2,6 +2,7 @@
 
 ## 1. Mục tiêu dự án
 **Tên đề tài: “PrintSlot -  Website đặt dịch vụ in ấn tài liệu theo yêu cầu dành cho học sinh, sinh viên”.**
+
 Mục tiêu kinh doanh
 - Xây dựng **PrintSlot – Website đặt dịch vụ in ấn trực tuyến**: tập trung vào học sinh, sinh viên tại TP.HCM, đặc biệt là sinh viên UEH.
 - **Số hóa và tối ưu quy trình đặt in**: từ lựa chọn dịch vụ, báo giá, thanh toán đến giao nhận và theo dõi đơn hàng.
