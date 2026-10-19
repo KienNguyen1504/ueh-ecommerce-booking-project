@@ -101,11 +101,5 @@ Trường hợp thanh toán chưa thành công hoặc đơn được yêu cầu 
 
 **Nguyên tắc chung:** Khách hàng chỉ xem được tệp và đơn hàng của mình; nhân viên chỉ truy cập đơn được phân công; quản trị viên thao tác trong phạm vi phân quyền. Chức năng quản lý bảng giá, lịch và sức chứa (F19, F21) là bước **cấu hình trước khi vận hành**, không phải thao tác của khách trong mỗi đơn đặt in.
 
-## 7. Đối chiếu với yêu cầu NV5 và phạm vi triển khai
 
-- **Chức năng phục vụ luồng khách hàng:** F01–F15 (tùy bước và tùy chọn); **theo dõi đơn:** F15; **vận hành đơn:** F20; **bảo vệ dữ liệu:** F23.
-- **Các nhánh/tác vụ phát sinh:** F16 (hủy đơn), F17 (báo giá riêng), F18 (đánh giá sau khi hoàn tất).
-- **Các chức năng quản trị hỗ trợ quy trình:** F19 (quản lý dịch vụ và giá), F21 (tài khoản, voucher, lịch và sức chứa); F22 (dashboard) dùng để tổng hợp sau vận hành, không phải một bước đặt in.
-- **Giới hạn MVP cần giữ đúng:** chỉ thanh toán **sandbox/mô phỏng**, không tích hợp API đơn vị vận chuyển, không có dịch vụ in hỏa tốc, tài khoản/ưu đãi B2B riêng hay hoàn tiền tự động qua cổng thật.
 
-**Tài liệu đối chiếu:** `REQUIREMENTS.md` (NV5 – vai trò, chức năng, phạm vi MVP), `PROJECT_PLAN.md` (phân công), `README.md` (giới thiệu PrintSlot).
