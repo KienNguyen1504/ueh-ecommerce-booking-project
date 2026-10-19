@@ -3,13 +3,13 @@
 ## 1. Thành viên và vai trò
 | Thành viên | Vai trò | Trách nhiệm |
 |---|---|---|
-| Kiên | Trưởng nhóm | Repo, GitHub Issues, điều phối, định dạng báo cáo |
-| Hoa | BA | NV1 vấn đề kinh doanh, NV7 phân công |
-| Phương | Phân tích | NV2 website tương tự |
-| Nhi | Phân tích | NV2 website tương tự |
-| Thắng | AI | NV3, NV4 |
-| Tuệ | BA | NV5 vai trò và chức năng |
-| Hưng | BA | NV6 quy trình nghiệp vụ |
+| Kiên | Trưởng nhóm  |
+| Nhi | UI/UX |
+| Tuệ | Front-end |
+| Phương | Front-end |
+| Hoa | Back-end |
+| Thắng | Back-end |
+| Hưng | QA/Integration |
 
 ## 2. Các giai đoạn
 - Giai đoạn 1: Khảo sát và xác định yêu cầu.
