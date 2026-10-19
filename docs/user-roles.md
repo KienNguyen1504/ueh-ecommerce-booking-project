@@ -17,4 +17,3 @@ PrintSlot là website đặt dịch vụ in ấn tài liệu học tập và là
 - **Khách hàng:** Chỉ được xem và quản lý hồ sơ, tệp tải lên, giỏ hàng và đơn hàng thuộc tài khoản của mình.
 - **Nhân viên vận hành tiệm in:** Chỉ được truy cập thông tin cần thiết để xử lý đơn được phân công. Quyền xem hoặc tải tệp của khách hàng phải được kiểm soát.
 - **Quản trị viên hệ thống:** Được thực hiện các nghiệp vụ quản trị theo quyền được cấp. Những thao tác quan trọng như thay đổi bảng giá, cập nhật trạng thái đơn hàng và xử lý hoàn tiền phải tuân theo quy tắc nghiệp vụ của hệ thống.
-- **Phạm vi mở rộng:** Vai trò khách hàng tổ chức, câu lạc bộ hoặc giảng viên (B2B), chính sách chiết khấu B2B, xuất hóa đơn GTGT và dịch vụ cho thuê standee chưa thuộc phạm vi bốn vai trò chính của MVP. Các chức năng này chỉ được triển khai khi nhóm thống nhất đưa vào phạm vi dự án.
