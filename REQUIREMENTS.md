@@ -116,7 +116,6 @@ Mô tả chi tiết về nhiệm vụ, quyền hạn và nguyên tắc phân quy
 | NFR14 | Khả năng theo dõi và tra cứu | Các thông tin quan trọng phục vụ vận hành và kiểm thử cần được lưu trữ để tra cứu khi cần thiết. | Hệ thống lưu được thông tin đơn hàng, trạng thái xử lý và kết quả thanh toán thử nghiệm; người có quyền có thể tra cứu các thông tin này. |
 
 ## 6. Giới hạn và giả định
-## 6. Giới hạn và giả định
 ### 6.1. Giới hạn
 
 - **Thời gian thực hiện:** Đồ án được triển khai trong thời gian quy định của học kỳ. Nhóm ưu tiên hoàn thành các chức năng cốt lõi của phiên bản MVP trước khi xem xét các chức năng mở rộng.
