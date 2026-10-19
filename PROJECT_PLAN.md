@@ -1,15 +1,15 @@
 # Project Plan
 
 ## 1. Thành viên và vai trò
-| Thành viên | Vai trò | Trách nhiệm |
-|---|---|---|
-| Kiên | Trưởng nhóm  |
-| Nhi | UI/UX |
-| Tuệ | Front-end |
-| Phương | Front-end |
-| Hoa | Back-end |
-| Thắng | Back-end |
-| Hưng | QA/Integration |
+| Thành viên | Vai trò 
+|---|---|
+| Kiên | Trưởng nhóm  
+| Nhi | UI/UX 
+| Tuệ | Front-end 
+| Phương | Front-end 
+| Hoa | Back-end 
+| Thắng | Back-end 
+| Hưng | QA/Integration 
 
 ## 2. Các giai đoạn
 - Giai đoạn 1: Khảo sát và xác định yêu cầu.
