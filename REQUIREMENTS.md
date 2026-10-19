@@ -78,7 +78,7 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 
 ### Tuyên bố giá trị khác biệt (USP)
 
-“PrintSlot - Đặt in đúng nhu cầu, chủ động thời gian nhận, tối ưu chi phí học tập”.
+“PrintSlot - Đặt in chủ động ngân sách, chủ động lịch trình, tối ưu hoá dành cho sinh viên”.
 
 Thay vì chỉ cung cấp dịch vụ đặt in trực tuyến, PrintSlot hướng đến kết hợp báo giá tự động, lựa chọn khung giờ nhận theo năng lực xử lý và gợi ý cấu hình in tiết kiệm trên cùng một nền tảng, tập trung trước tiên vào nhu cầu của học sinh, sinh viên tại TP.HCM.
 
