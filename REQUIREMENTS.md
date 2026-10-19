@@ -145,7 +145,7 @@ Các chức năng sau chưa được triển khai trong phiên bản MVP của �
 - Chức năng đặt hàng ưu tiên hoặc in gấp với cơ chế tính phí riêng.
 - Chương trình tích điểm, hệ thống thành viên nâng cao và các chương trình khách hàng thân thiết.
 - Tích hợp tự động với phần mềm quản lý kho, kế toán hoặc hệ thống quản lý của tiệm in bên ngoài.
-- Các chức năng ngoài phạm vi có thể được xem xét phát triển trong những giai đoạn tiếp theo nếu đáp ứng được thời gian, nguồn lực và mục tiêu của đồ án.
+Các chức năng ngoài phạm vi có thể được xem xét phát triển trong những giai đoạn tiếp theo nếu đáp ứng được thời gian, nguồn lực và mục tiêu của đồ án.
 
 ## 3. Người dùng
 
