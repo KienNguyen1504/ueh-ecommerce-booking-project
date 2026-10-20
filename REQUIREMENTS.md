@@ -16,7 +16,7 @@ Giá trị mang lại cho khách hàng
 
 ### Trả lời 6 câu hỏi của GV
 
-## 1.1. Website kinh doanh sản phẩm hoặc dịch vụ gì?
+### 1.1. Website kinh doanh sản phẩm hoặc dịch vụ gì?
 
 PrintSlot kinh doanh dịch vụ in ấn tài liệu theo yêu cầu, phục vụ nhu cầu học tập, làm việc và tổ chức sự kiện.
 
@@ -31,7 +31,7 @@ PrintSlot kinh doanh dịch vụ in ấn tài liệu theo yêu cầu, phục v�
 
 Khách hàng đặt dịch vụ theo từng đơn in, với số lượng được tính theo trang, tờ, bản hoặc bộ tài liệu tùy loại dịch vụ. Khách hàng có thể lựa chọn cấu hình in, thời gian hoàn thành dự kiến, khung giờ nhận và phương thức giao nhận.
 
-## 1.2. Khách hàng mục tiêu là ai?
+### 1.2. Khách hàng mục tiêu là ai?
 
 **Bảng 1.2 Phân tích đặc điểm khách hàng mục tiêu của PrintSlot**
 
@@ -50,7 +50,7 @@ Khách hàng đặt dịch vụ theo từng đơn in, với số lượng đư�
 | Hành vi | Lý do lựa chọn | Giá phù hợp, quy trình nhanh, vị trí thuận tiện, chất lượng đáp ứng yêu cầu và nhận thành phẩm đúng thời hạn. |
 |  | Mức độ trung thành | Có khả năng sử dụng lại nếu giá cả, chất lượng và thời gian nhận đáp ứng kỳ vọng; dễ cân nhắc lựa chọn khác khi có dịch vụ thuận tiện hơn. |
 
-## 1.3. Phân tích vấn đề khách hàng và giải pháp của PrintSlot bằng mô hình Value Proposition Canvas
+### 1.3. Phân tích vấn đề khách hàng và giải pháp của PrintSlot bằng mô hình Value Proposition Canvas
 
 Mô hình Value Proposition Canvas được sử dụng để xác định công việc, khó khăn và lợi ích mong đợi của khách hàng, từ đó xây dựng giải pháp có khả năng đáp ứng các nhu cầu quan trọng.
 
@@ -60,7 +60,7 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 
 **Phân tích chi tiết:** [1.3. Phân tích vấn đề khách hàng và giải pháp của PrintSlot bằng mô hình Value Proposition Canvas](https://docs.google.com/document/d/1nS6s-vEdgaIkDlv0fmnZZX75G25MTObRDletDFm4PGw/edit?usp=sharing)
 
-## 1.4. Website có điểm khác biệt gì so với các website tương tự?
+### 1.4. Website có điểm khác biệt gì so với các website tương tự?
 
 ![Hình 1.2. Mô hình Sweet Spot của PrintSlot](printslot-sweet-spot.png)
 
@@ -84,7 +84,7 @@ Thay vì chỉ cung cấp dịch vụ đặt in trực tuyến, PrintSlot hướ
 
 Tuyên bố này thể hiện định vị cạnh tranh dự kiến, không phải khẳng định PrintSlot sở hữu công nghệ độc quyền hoặc các đối thủ chưa có những tính năng tương tự. Nhóm sẽ kiểm chứng sự khác biệt khi phân tích chi tiết ít nhất ba website và khảo sát khách hàng mục tiêu.
 
-## 1.5. Những chức năng nào bắt buộc phải có trong phiên bản đầu tiên?
+### 1.5. Những chức năng nào bắt buộc phải có trong phiên bản đầu tiên?
 
 Phiên bản đầu tiên (MVP) của PrintSlot dự kiến tập trung vào các nhóm chức năng sau:
 
