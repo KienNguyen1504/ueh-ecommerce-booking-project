@@ -1,4 +1,4 @@
-**Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
+<img width="1843" height="240" alt="image" src="https://github.com/user-attachments/assets/2dcc9d25-ec88-4785-81cd-1cca37b89f8b" />**Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
 **Sử dụng Gemini để thực hiện phân tích**
 # Thông tin dự án
 
@@ -14,6 +14,8 @@
 | **Website tham khảo**                               | • **Website A:** [**<u>In Sài Gòn</u>**](https://insaigon.vn/)<br>• **Website B:** [**<u>In Nhanh Co</u>**](https://innhanh.co/)<br>• **Website C:** [**<u>In KTS Đại Dương</u>**](https://www.inandaiduong.com/)                                                         |
 | **Thời gian thực hiện**                             | Từ 2-3 tháng                                                                                                                                                                                                                                                              |
 | **Quy mô nhóm**                                     | Nhóm gồm có 7 thành viên                                                                                                                                                                                                                                                  |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 # 1. MỤC TIÊU VÀ PHẠM VI DỰ ÁN (PROJECT OBJECTIVES & SCOPE)
 
@@ -41,6 +43,8 @@ Trong môi trường đại học tại TP.HCM (đặc biệt là các cụm tr�
 
 ## 1.3. Phạm vi Dự án (Project Scope Boundary)
 
+**Bảng đề xuất phạm vi dự án** 
+
 | **HẠNG MỤC NẰM TRONG PHẠM VI (IN-SCOPE)**                                                    | **HẠNG MỤC NẰM NGOÀI PHẠM VI (OUT-OF-SCOPE)**                                                    |
 |----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
 | • Upload file PDF & trích xuất số trang tự động.                                             | • Công cụ chỉnh sửa / thiết kế đồ họa trực tuyến phức tạp (Canvas Editor full-featured).         |
@@ -49,6 +53,8 @@ Trong môi trường đại học tại TP.HCM (đặc biệt là các cụm tr�
 | • Thuật toán tính giá tự động theo thời gian thực dựa trên cấu hình.                         | • Tự động chỉnh sửa lỗi layout/font chữ bên trong file PDF của khách hàng.                       |
 | • Đặt lịch hẹn nhận hàng thông minh theo Slot Capacity của tiệm in.                          | • Cho thuê thiết bị máy in vật lý cho cá nhân/hộ gia đình.                                       |
 | • Thanh toán trực tuyến (MoMo, VNPay, ZaloPay, QR Code) & Tracking đơn 5 bước.               | • Đội ngũ giao hàng nội bộ riêng biệt (Sử dụng đối tác vận chuyển giao hàng API ngoài).          |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 # 2. CÁC NHÓM NGƯỜI DÙNG VÀ MA TRẬN PHÂN QUYỀN
 
@@ -66,6 +72,8 @@ Trong môi trường đại học tại TP.HCM (đặc biệt là các cụm tr�
 
 ## 2.2. Ma trận Phân quyền Chi tiết (Role-Based Access Control Matrix)
 
+**Bảng phân quyền chức năng cho từng người dùng** 
+
 | **Chức năng / Mô-đun**            | **Guest** | **Student**     | **B2B / Club** | **Operator** | **Admin**     |
 |-----------------------------------|-----------|-----------------|----------------|--------------|---------------|
 | Xem bảng giá & dịch vụ            | X         | X               | X              | X            | X             |
@@ -80,6 +88,8 @@ Trong môi trường đại học tại TP.HCM (đặc biệt là các cụm tr�
 | Quản lý bảng giá & Dynamic Slot   | \-        | \-              | \-             | \-           | X             |
 | Xem Báo cáo Analytics / Doanh thu | \-        | \-              | \-             | Chỉ cửa hàng | Toàn hệ thống |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 # 3. CƠ SỞ ĐỀ XUẤT VÀ PHÂN LOẠI YÊU CẦU CHI TIẾT
 
 Nhằm đảm bảo dự án được triển khai đúng tiến độ môn học, phù hợp với năng lực kỹ thuật và nguồn lực thực tế của nhóm sinh viên, toàn bộ các chức năng đề xuất được phân loại minh bạch dựa trên 3 tiêu chí cốt lõi:
@@ -91,6 +101,8 @@ Nhằm đảm bảo dự án được triển khai đúng tiến độ môn họ
 - **3. \[HYPOTHESIS / CẦN KHẢO SÁT XÁC MINH\]:** Những giả định về thói quen sinh viên hoặc quy trình vận hành tiệm in chưa có số liệu thực tế, cần tiến hành khảo sát thị trường để kiểm chứng trước khi lập trình.
 
 ## 3.1. Bảng Phân loại Chức năng & Giải trình Cơ sở Khoa học
+
+**Phân loại chức năng**
 
 | **Mã CN** | **Tên Chức năng / Tính năng**                   | **Phân loại**  | **Cơ sở Đề xuất & Giải trình Nghiệp vụ**                                                           |
 |-----------|-------------------------------------------------|----------------|----------------------------------------------------------------------------------------------------|
@@ -110,11 +122,15 @@ Nhằm đảm bảo dự án được triển khai đúng tiến độ môn họ
 | HYP-02    | Tiệm in tuân thủ đúng Slot Capacity             | **HYPOTHESIS** | Cần phỏng vấn tiệm in: Quy trình thực tế có thể cập nhật trạng thái đơn liên tục không?            |
 | HYP-03    | Nhu cầu thuê Standee sự kiện của CLB            | **HYPOTHESIS** | Cần khảo sát các CLB UEH/TPHCM: Có nhu cầu thuê khung Standee hay chỉ mua?                         |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 # 4. Quy trình nghiệp vụ chính
 
 ## 4.1. Quy trình đặt in từ đầu đến cuối
 
 Quy trình dưới đây mô tả luồng chuẩn của một đơn hàng, từ lúc khách chọn dịch vụ đến khi hoàn tất. Cột cuối nêu quy tắc nghiệp vụ mà hệ thống phải thực thi.
+
+**Quy trình đặt in** 
 
 | **Bước** | **Người thực hiện**         | **Hoạt động**                                                         | **Hệ thống xử lý / quy tắc nghiệp vụ**                                                                                                                |
 |----------|-----------------------------|-----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -132,6 +148,7 @@ Quy trình dưới đây mô tả luồng chuẩn của một đơn hàng, từ 
 | 12       | **Nhân viên**               | In xong, thực hiện đóng gáy/bìa/kiểm tra, chuyển **Đang hoàn thiện**. | Hệ thống ghi thời điểm từng trạng thái (phục vụ đo thời gian xử lý thực tế).                                                                          |
 | 13       | **Nhân viên**               | Chuyển **Sẵn sàng nhận** (quầy) hoặc **Đang giao**.                   | Khách nhìn thấy trạng thái mới, có thể nhận thông báo.                                                                                                |
 | 14       | **Khách / Nhân viên**       | Khách nhận hàng hoặc nhận giao, nhân viên xác nhận **Hoàn tất** (F3). | Đóng đơn, đơn trở thành lịch sử.                                                                                                                      |
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Cơ sở:** các bước 1-14 bám sát luồng được mô tả trong đề tài, hai điểm bổ sung là (a) bước 8-9 xử lý thanh toán dở dang và giữ chỗ, vì thực tế khách có thể bỏ giữa chừng, (b) bước 11 xử lý file lỗi, vì file PDF hỏng/sai khổ là tình huống thường gặp.
 
@@ -144,6 +161,8 @@ Quy trình dưới đây mô tả luồng chuẩn của một đơn hàng, từ 
 
 Trước luồng trên: **Chờ thanh toán**. Ngoài luồng: **Đã hủy** (chỉ trước khi chuyển Đang in).
 
+**Luồng trạng thái xử lý đơn hàng** 
+
 | **Trạng thái**                | **Điều kiện chuyển vào**                                                           | **Người / hệ thống kích hoạt** | **Ghi chú**                                                                |
 |-------------------------------|------------------------------------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------|
 | **Chờ thanh toán**            | Khách đã xác nhận đơn, chưa thanh toán xong.                                       | Hệ thống                       | Có thời hạn giữ chỗ, hết hạn thì giải phóng khung giờ. Trạng thái bổ sung. |
@@ -153,6 +172,8 @@ Trước luồng trên: **Chờ thanh toán**. Ngoài luồng: **Đã hủy** (c
 | **Sẵn sàng nhận / Đang giao** | Thành phẩm sẵn sàng, chọn “Sẵn sàng nhận” (quầy) hoặc “Đang giao”.                 | Nhân viên                      | Thể hiện khung giờ nhận hoặc thông tin giao.                               |
 | **Hoàn tất**                  | Khách đã nhận hoặc giao thành công.                                                | Nhân viên                      | Đóng đơn, không chỉnh sửa tiếp.                                            |
 | **Đã hủy**                    | Khách hủy hoặc quản trị hủy khi đơn chưa vào in, hoặc thanh toán thất bại/quá hạn. | Khách / Quản trị / Hệ thống    | Xử lý hoàn tiền theo chính sách. Trạng thái bổ sung.                       |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Cơ sở:** trạng thái được kiểm soát chặt (chỉ chuyển theo thứ tự hợp lệ) để khách luôn thấy thông tin đáng tin cậy và để cửa hàng có số liệu thời gian xử lý thật cho việc cải tiến công suất sau này (liên quan E6).
 
@@ -175,6 +196,8 @@ Tổng đơn = Σ các mục \[ (chi phí in + phí đóng gáy/bìa mỗi bản
 | In một mặt            | 60        | 60 × 300 + 60 × 200 = 30.000 đ | 10.000 đ      | (30.000 + 10.000) × 3 = 120.000 đ |
 | In hai mặt (gợi ý D3) | 30        | 60 × 300 + 30 × 200 = 24.000 đ | 10.000 đ      | (24.000 + 10.000) × 3 = 102.000 đ |
 | **Tiết kiệm**         |           |                                |               | **18.000 đ (15%)**                |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 Ví dụ cho thấy gợi ý tiết kiệm có thể được hiển thị bằng đúng công thức đang dùng để tính giá, nên D3 chỉ cần so sánh hai lần tính D1 - đây là lý do D3 khả thi ở mức quy tắc.
 
@@ -201,6 +224,8 @@ Ví dụ cho thấy gợi ý tiết kiệm có thể được hiển thị bằn
 
 ## 4.5. Quy trình xử lý ngoại lệ: file lỗi, hủy đơn, khiếu nại
 
+**Các tình huống ngoại lệ có thể xảy ra**
+
 | **Tình huống**                                           | **Đề xuất xử lý**                                                                                                                                                           |
 |----------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | File PDF hỏng, có mật khẩu, sai khổ hoặc mờ.             | Hệ thống chặn ngay khi tải lên nếu phát hiện được, nếu sót, nhân viên gắn cờ “cần file mới”, đơn tạm dừng, khách được liên hệ và tải lại file, thời hạn nhận được tính lại. |
@@ -209,7 +234,11 @@ Ví dụ cho thấy gợi ý tiết kiệm có thể được hiển thị bằn
 | Thành phẩm sai do lỗi cửa hàng (in sai cấu hình đã đặt). | In lại hoặc hoàn tiền, ghi nhận trong nhật ký để cải tiến.                                                                                                                  |
 | Khách tải lên nội dung vi phạm bản quyền/pháp luật.      | Điều khoản yêu cầu khách chịu trách nhiệm về quyền sử dụng tài liệu, cửa hàng có quyền từ chối đơn.                                                                         |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 # 5. YÊU CẦU PHI CHỨC NĂNG (NON-FUNCTIONAL REQUIREMENTS - NFRs)
+
+**Bảng yêu cầu phi chức năng**
 
 | **Nhóm Yêu cầu** | **Tiêu chuẩn / Chỉ số Đạt được (Metric)** | **Giải pháp Kỹ thuật & Vận hành** |
 |---|---|---|
@@ -218,6 +247,8 @@ Ví dụ cho thấy gợi ý tiết kiệm có thể được hiển thị bằn
 | **Khả dụng (Usability & UX)** | • Thiết kế Chuẩn Responsive (Mobile/Tablet/Desktop).<br>• Luồng đặt hàng không quá 3 bước chính. | Giao diện tối giản, tối ưu hóa cho thao tác trên điện thoại thông minh của sinh viên. |
 | **Độ tin cậy (Reliability)** | • Uptime hệ thống đạt 99.5% trong suốt kỳ học.<br>• Tự động sao lưu Database hàng ngày (Daily Backup). | Triển khai trên hạ tầng Cloud (AWS/Google Cloud) có cơ chế Auto-scaling khi cao điểm. |
 | **Khả năng nâng cấp (Maintainability)** | • Kiến trúc Mô-đun hóa (Modular Architecture / RESTful API).<br>• Dễ dàng bổ sung tiệm in đối tác mới. | Tách biệt hoàn toàn Frontend (ReactJS/NextJS) và Backend (NodeJS/Python Django/Laravel). |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 # 6. Các chức năng nên hoàn thành ở phiên bản đầu tiên
 
@@ -234,6 +265,8 @@ Vì nhóm chưa cung cấp thời gian và quy mô, tài liệu không ấn đ�
 ## 6.2. Danh sách ưu tiên (làm trước)
 
 Cột “độ phức tạp” là **đánh giá tương đối của người phân tích** (T: thấp, TB: trung bình, C: cao), chỉ để nhóm tham khảo khi ước lượng, nhóm cần tự đánh giá lại theo năng lực.
+
+**Bảng danh sách các chức năng được ưu tiên thực hiện**
 
 | **Chức năng**                                                 | **Độ phức tạp** | **Phụ thuộc / ghi chú**                                                                                   |
 |---------------------------------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------|
@@ -252,6 +285,8 @@ Cột “độ phức tạp” là **đánh giá tương đối của người p
 | Theo dõi trạng thái và lịch sử đơn                            | TB              | Phụ thuộc cấu trúc đơn và trạng thái.                                                                     |
 | Quản lý đơn và cập nhật trạng thái                            | TB              | Giao diện nhân viên.                                                                                      |
 | Trang chủ và chính sách                                       | T               | Nội dung tĩnh, cần rà soát                                                                                |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Thứ tự phụ thuộc kỹ thuật gợi ý** (không phải lịch thời gian): (1) nền tảng tài khoản, vai trò, cơ sở dữ liệu → (2) danh mục dịch vụ và bảng giá → (3) tải file, cấu hình, bộ tính giá, đơn nhiều mục → (4) khung giờ và nhận hàng → (5) tạo đơn và thanh toán → (6) theo dõi trạng thái và giao diện nhân viên.
 
@@ -272,6 +307,8 @@ Cột “độ phức tạp” là **đánh giá tương đối của người p
 
 Các chức năng dưới đây **không thuộc phạm vi bàn giao đầu tiên**. Mỗi mục nêu giá trị, điều kiện để làm và cơ sở đề xuất để nhóm cân nhắc khi còn nguồn lực hoặc trình bày hướng phát triển.
 
+**Bảng chức năng nâng cao bổ sung**
+
 | **Chức năng nâng cao**                                     | **Giá trị và cơ sở đề xuất**                                                                                                                  | **Điều kiện / phụ thuộc**                                                                                                      |
 |------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | **Cấu hình theo dải trang và xem trước PDF**               | Cho phép in màu đúng những trang cần và giúp khách kiểm tra file, liên quan trực tiếp đến mục tiêu tiết kiệm chi phí.                         | M1 ổn định, cần xử lý PDF phía máy chủ/trình duyệt, cần khảo sát để biết nhu cầu thực.                                         |
@@ -288,7 +325,11 @@ Các chức năng dưới đây **không thuộc phạm vi bàn giao đầu tiê
 | **Đăng nhập Google, đặt lại đơn**                          | Giảm ma sát đăng ký và thao tác lặp lại.                                                                                                      | Giả thuyết cần kiểm chứng bằng khảo sát.                                                                                       |
 | **Mở rộng nhiều cửa hàng / nhiều điểm nhận (marketplace)** | Mở rộng quy mô, phân bổ đơn theo công suất từng tiệm.                                                                                         | Thay đổi mô hình kinh doanh, cần đối soát, phân quyền theo cửa hàng. Chỉ nên xét sau khi mô hình một cửa hàng được kiểm chứng. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 # 8. RỦI RO TRIỂN KHAI VÀ BIỆN PHÁP GIẢM THIỂU
+
+**Bảng quản trị rủi ro đề xuất**
 
 | **Mã Rủi ro** | **Mô tả Rủi ro Triển khai**                                                     | **Mức độ**     | **Xác suất** | **Biện pháp Giảm thiểu & Dự phòng**                                                                                                                                                     |
 |---------------|---------------------------------------------------------------------------------|----------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -298,13 +339,15 @@ Các chức năng dưới đây **không thuộc phạm vi bàn giao đầu tiê
 | RSK-04        | Rò rỉ tài liệu học tập, báo cáo nghiên cứu, đề thi hoặc khóa luận chưa công bố. | **Rất Cao**    | Thấp         | Cam kết điều khoản bảo mật (NDA) trên Web. Thiết lập Script tự động xóa sạch file trên Server sau 30 ngày kể từ khi giao hàng.                                                          |
 | RSK-05        | Tiến độ dự án bị trễ do nhóm sinh viên thiếu thời gian hoặc kỹ năng lập trình.  | **Trung bình** | Trung bình   | Thực hiện phân kỳ rõ ràng: Chỉ tập trung làm xong 100% tính năng Bắt buộc (MVP). Không tham làm tính năng nâng cao (Nội thành giao hỏa tốc/Phân tích độ phủ mực) khi MVP chưa chạy tốt. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 **Nhiệm vụ 4 – Dùng một công cụ AI khác để phản biện**
 **Sử dụng Claude AI để phẩn biện lại**
 # 1. Dữ liệu đầu vào dùng để phản biện
 
 Thông tin dự án: 7 thành viên, thời gian thực hiện 2-3 tháng, khách hàng mục tiêu là học sinh, sinh viên tại TP.HCM. Vấn đề kinh doanh trong đề tài được ghi rõ là giả thuyết, chưa kiểm chứng. Ba điểm khác biệt đề xuất: tính giá tự động, đặt lịch thông minh theo năng lực xử lý, gợi ý cấu hình in tiết kiệm.
 
-Kết quả quan sát ba website tham khảo (xem trang chủ, thực hiện khi viết tài liệu này):
+**Kết quả quan sát ba website tham khảo**
 
 | **Website**                 | **Tính năng thấy trên trang**                                                                                                                                                           | **Tính năng không thấy**                                                                                                      |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -312,7 +355,7 @@ Kết quả quan sát ba website tham khảo (xem trang chủ, thực hiện khi
 | Website B: In Nhanh Co      | Nút “Đặt in ngay”, giỏ hàng có mã giảm giá và ghi chú, đồng hồ đếm ngược thời hạn thanh toán, đăng ký, đăng nhập, đặt lại mật khẩu, tra cứu đơn hàng, hướng dẫn đặt in.                 | Báo giá tự động (bảng giá tĩnh), tải file lên, chọn thông số in chi tiết, đặt lịch nhận hàng.                                 |
 | Website C: In KTS Đại Dương | Danh mục sản phẩm, liên hệ qua Zalo, Messenger, điện thoại, làm mẫu thử, các trang hướng dẫn đặt hàng, thanh toán, giao hàng.                                                           | Báo giá tự động, tải file, chọn thông số in, thanh toán online, theo dõi đơn, đặt lịch nhận hàng (không thấy trên trang chủ). |
 
-Lưu ý: đây là quan sát trang chủ, chưa thử đặt hàng thật nên có thể chưa đầy đủ. File bài tập hiện chỉ ghi địa chỉ ba website, không có bảng kết quả khảo sát. Nhóm cần đối chiếu với bảng khảo sát của mình và thay thế nếu khác.
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 # 2. Kết quả phản biện theo sáu khía cạnh
 
