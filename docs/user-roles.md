@@ -1,8 +1,8 @@
 # Vai trò người dùng
 
-Người phụ trách: Tuệ (NV5)
-
 PrintSlot là website đặt dịch vụ in ấn tài liệu học tập và làm việc theo yêu cầu. Dựa trên quy trình nghiệp vụ dự kiến, hệ thống có bốn vai trò chính trong phiên bản MVP: khách chưa đăng nhập, khách hàng, nhân viên vận hành tiệm in và quản trị viên hệ thống.
+
+**Bảng phân chia vai trò người dùng**
 
 | Vai trò | Nhiệm vụ chính | Quyền hạn dự kiến |
 |---|---|---|
@@ -10,6 +10,8 @@ PrintSlot là website đặt dịch vụ in ấn tài liệu học tập và là
 | **Khách hàng** | Đặt dịch vụ in, thanh toán và theo dõi đơn hàng của bản thân. | Đăng ký, đăng nhập và quản lý hồ sơ; tải tệp PDF; cấu hình thông số in; xem báo giá; nhận gợi ý cấu hình tiết kiệm; quản lý giỏ hàng; chọn khung giờ nhận và phương thức giao nhận; áp dụng voucher; thanh toán; theo dõi và hủy đơn theo điều kiện quy định; xem lịch sử đơn hàng và đánh giá dịch vụ sau khi đơn hoàn tất. |
 | **Nhân viên vận hành tiệm in** | Tiếp nhận, kiểm tra tệp và xử lý các đơn in được phân công. | Xem các đơn được phép xử lý; truy cập tệp phục vụ việc in; kiểm tra tệp và ghi nhận lỗi; yêu cầu khách hàng bổ sung tệp; cập nhật trạng thái đơn theo quy trình; xác nhận tài liệu đã sẵn sàng nhận hoặc giao và ghi nhận việc hoàn tất. Không được tự ý thay đổi bảng giá, phân quyền hoặc cấu hình quản trị hệ thống. |
 | **Quản trị viên hệ thống** | Quản lý cấu hình và giám sát hoạt động của PrintSlot. | Quản lý dịch vụ, danh mục, combo và bảng giá; quản lý tài khoản và phân quyền; cấu hình khung giờ, sức chứa và lịch ngừng nhận đơn; quản lý voucher; theo dõi và xử lý đơn hàng theo quyền được cấp; ghi nhận việc hủy đơn và xử lý hoàn tiền; xem dashboard thống kê. |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ## Nguyên tắc phân quyền
 
