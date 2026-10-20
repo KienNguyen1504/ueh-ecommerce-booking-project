@@ -60,7 +60,7 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 
 ![Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot](docs/images/printslot-value-proposition-canvas.png)
 
-**Tổng hợp mô hình Value Proposition Canvas của PrintSlot**_
+**Tổng hợp mô hình Value Proposition Canvas của PrintSlot**
 
 _**Nguồn: Hình ảnh có sử dụng AI**_
 
