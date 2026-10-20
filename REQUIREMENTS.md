@@ -27,6 +27,7 @@ PrintSlot kinh doanh dịch vụ in ấn tài liệu theo yêu cầu, phục v�
 | In ấn tài liệu học tập và làm việc | In slide bài giảng, tài liệu tham khảo, slide thuyết trình, báo cáo nhóm, luận văn, khóa luận và một số tài liệu khác. |
 | Tuỳ chỉnh và gia công tài liệu | Chọn số lượng mặt trên một trang, lựa chọn khổ giấy, loại giấy, đóng gáy lò xo, đóng bìa và hoàn thiện tài liệu. |
 | In ấn phục vụ sự kiện | In poster, bản vẽ kỹ thuật, decal và các ấn phẩm phục vụ hoạt động truyền thông khác. |
+| Định dạng & Chuẩn hóa file (Format Word) | Thực hiện định dạng, căn chỉnh margins, làm mục lục tự động,... chỉnh chuẩn bìa/font theo quy định báo cáo/khóa luận. |
 | Combo dịch vụ | Combo khóa luận, combo in poster kèm standee (thuê hoặc mua). |
 
 _**Nguồn: Nhóm tác giả đề xuất (2026)**_
