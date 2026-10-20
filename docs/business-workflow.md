@@ -12,6 +12,8 @@ Mô tả hành trình đặt in trên PrintSlot, từ lúc người dùng truy c
 
 ## 2. Vai trò tham gia
 
+**Bảng đề xuất vai trò người dùng** 
+
 | Vai trò | Nhiệm vụ trong quy trình |
 | --- | --- |
 | **Khách chưa đăng nhập** | Xem, tìm kiếm, lọc danh mục dịch vụ và xem chi tiết; cần đăng nhập để thực hiện đặt in. |
@@ -20,7 +22,11 @@ Mô tả hành trình đặt in trên PrintSlot, từ lúc người dùng truy c
 | **Nhân viên vận hành tiệm in** | Kiểm tra tệp/đơn được phân công, in và hoàn thiện, cập nhật tiến độ, xác nhận bàn giao. |
 | **Quản trị viên** | Cấu hình dịch vụ, bảng giá, lịch và sức chứa, voucher; giám sát đơn theo quyền được cấp. |
 
+**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+
 ## 3. Các bước quy trình nghiệp vụ chính
+
+**Các bước trong quy trình nghiệp vụ**
 
 | Bước | Người thực hiện | Hoạt động / Kết quả | Chức năng liên quan (NV5) |
 | :---: | --- | --- | --- |
@@ -38,6 +44,8 @@ Mô tả hành trình đặt in trên PrintSlot, từ lúc người dùng truy c
 | **12** | Khách hàng / Hệ thống | Thực hiện **thanh toán thử nghiệm**. Nếu kết quả thành công, hệ thống ghi nhận đơn, tạo mã đơn và chuyển sang **Đã tiếp nhận**; nếu thất bại/hủy, thông báo để khách xử lý, không xem là đơn đã thanh toán thành công. | **F14, F15** |
 | **13** | Nhân viên vận hành | Tiếp nhận đơn được phân công, kiểm tra tệp; tiến hành in và hoàn thiện, cập nhật lần lượt **Đang in → Đang hoàn thiện → Sẵn sàng nhận / Đang giao** tùy phương thức giao nhận. | **F20** |
 | **14** | Khách hàng / Nhân viên | Khách tra cứu trạng thái trong tài khoản, nhận thành phẩm tại tiệm hoặc theo phương thức giao đã chọn. Khi bàn giao thành công, nhân viên cập nhật **Hoàn tất**; khách có thể đánh giá dịch vụ sau đó. | **F15, F20, F18** |
+
+**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
 
 **Kết quả đầu ra:** Một đơn in có mã đơn, thông tin dịch vụ và cấu hình, giá trị thanh toán thử nghiệm, khung giờ/phương thức nhận, lịch sử và trạng thái xử lý để khách hàng tra cứu.
 
@@ -73,6 +81,8 @@ flowchart TD
 
 ## 5. Trạng thái đơn hàng
 
+**Bảng xử lý trạng thái đơn**
+
 | Trạng thái | Ý nghĩa |
 | --- | --- |
 | **Đã tiếp nhận** | Đơn được ghi nhận sau kết quả thanh toán thử nghiệm thành công và sẵn sàng để cửa hàng xử lý. |
@@ -82,11 +92,15 @@ flowchart TD
 | **Đang giao** | Đơn được xử lý theo phương thức giao hàng đã chọn; MVP chỉ ghi nhận/cập nhật trạng thái, không theo dõi qua API hãng vận chuyển. |
 | **Hoàn tất** | Thành phẩm đã được bàn giao và đơn được xác nhận kết thúc. |
 
+**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+
 **Luồng chuẩn:** `Đã tiếp nhận → Đang in → Đang hoàn thiện → Sẵn sàng nhận / Đang giao → Hoàn tất`.
 
 Trường hợp thanh toán chưa thành công hoặc đơn được yêu cầu hủy là **ngoại lệ** cần lưu riêng kết quả xử lý; không tự động chuyển đơn sang `Đã tiếp nhận` như đã thanh toán. Tên và điều kiện của các trạng thái phụ (nếu thêm) sẽ được nhóm thống nhất ở giai đoạn thiết kế chi tiết.
 
 ## 6. Trường hợp ngoại lệ và quy tắc cần lưu ý
+
+**Bảng quy tắc cần chú ý**
 
 | Tình huống | Hướng xử lý trong MVP | Chức năng |
 | --- | --- | --- |
@@ -98,6 +112,8 @@ Trường hợp thanh toán chưa thành công hoặc đơn được yêu cầu 
 | **Nhân viên phát hiện tệp có vấn đề khi xử lý** | Ghi nhận sự cố và yêu cầu khách bổ sung/chỉnh sửa tệp theo quyền và quy trình được nhóm thống nhất. | F20 |
 | **Khách yêu cầu hủy đơn** | Kiểm tra điều kiện hủy, ghi nhận kết quả; việc hoàn tiền (nếu có) xử lý/ghi nhận thủ công trong MVP. | F16 |
 | **Dịch vụ đặc thù chưa thể tính giá tự động** | Khách gửi yêu cầu báo giá riêng; đây là nhánh phụ, không thuộc luồng đặt in tiêu chuẩn ở trên. | F17 |
+
+**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
 
 **Nguyên tắc chung:** Khách hàng chỉ xem được tệp và đơn hàng của mình; nhân viên chỉ truy cập đơn được phân công; quản trị viên thao tác trong phạm vi phân quyền. Chức năng quản lý bảng giá, lịch và sức chứa (F19, F21) là bước **cấu hình trước khi vận hành**, không phải thao tác của khách trong mỗi đơn đặt in.
 
