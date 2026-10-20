@@ -1,7 +1,4 @@
 # Quy trình nghiệp vụ
-
-**Người phụ trách:** Hưng (NV6)  
-**Dự án:** PrintSlot – Website đặt dịch vụ in ấn tài liệu theo yêu cầu dành cho học sinh, sinh viên  
 **Quy trình chính:** Đặt dịch vụ in ấn và theo dõi trạng thái đơn hàng
 
 ## 1. Mục tiêu và phạm vi
