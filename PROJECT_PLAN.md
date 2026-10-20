@@ -22,14 +22,13 @@
 ## 3. Công việc (Buổi 1)
 | Mã | Người phụ trách | Kết quả cần đạt | Thời hạn | Trạng thái |
 |---|---|---|---|---|
-| NV1 | Hoa (cả nhóm góp ý) | Xác định vấn đề kinh doanh | 17/10/2026 | Chưa bắt đầu |
-| NV8 | Kiên | Repo Public + Issues | 17/10/2026 | Đang làm |
-| NV2 | Phương, Nhi | docs/competitor-analysis.md | 18/10/2026 | Chưa bắt đầu |
-| NV3+NV4 | Thắng | AI_USAGE_LOG.md + bảng quyết định | 18/10/2026 | Chưa bắt đầu |
-| NV5 | Tuệ | REQUIREMENTS.md, docs/user-roles.md | 19/10/2026 20:00 | Chưa bắt đầu |
-| NV6 | Hưng | docs/business-workflow.md | 19/10/2026 20:00 | Chưa bắt đầu |
-| NV7 | Hoa | README.md, PROJECT_PLAN.md (phân công) | 19/10/2026 20:00 | Chưa bắt đầu |
-| Format Word | Kiên | File Word định dạng chuẩn | 20/10/2026 20:00 | Chưa bắt đầu |
+| NV1 | Hoa (cả nhóm góp ý) | Xác định vấn đề kinh doanh | 17/10/2026 | Hoàn thành |
+| NV8 | Kiên | Repo Public + Issues | 17/10/2026 | Hoàn thành |
+| NV2 | Phương, Nhi | docs/competitor-analysis.md | 18/10/2026 | Hoàn thành |
+| NV3+NV4 | Thắng | AI_USAGE_LOG.md + bảng quyết định | 18/10/2026 | Hoàn thành |
+| NV5 | Tuệ | REQUIREMENTS.md, docs/user-roles.md | 19/10/2026 20:00 | Hoàn thành |
+| NV6 | Hưng | docs/business-workflow.md | 19/10/2026 20:00 | Hoàn thành |
+| NV7 | Hoa | README.md, PROJECT_PLAN.md (phân công) | 19/10/2026 20:00 | Hoàn thành |
 
 ## 4. Rủi ro
 | Rủi ro | Phương án xử lý |
