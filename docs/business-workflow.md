@@ -22,7 +22,7 @@ Mô tả hành trình đặt in trên PrintSlot, từ lúc người dùng truy c
 | **Nhân viên vận hành tiệm in** | Kiểm tra tệp/đơn được phân công, in và hoàn thiện, cập nhật tiến độ, xác nhận bàn giao. |
 | **Quản trị viên** | Cấu hình dịch vụ, bảng giá, lịch và sức chứa, voucher; giám sát đơn theo quyền được cấp. |
 
-**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ## 3. Các bước quy trình nghiệp vụ chính
 
@@ -45,7 +45,7 @@ Mô tả hành trình đặt in trên PrintSlot, từ lúc người dùng truy c
 | **13** | Nhân viên vận hành | Tiếp nhận đơn được phân công, kiểm tra tệp; tiến hành in và hoàn thiện, cập nhật lần lượt **Đang in → Đang hoàn thiện → Sẵn sàng nhận / Đang giao** tùy phương thức giao nhận. | **F20** |
 | **14** | Khách hàng / Nhân viên | Khách tra cứu trạng thái trong tài khoản, nhận thành phẩm tại tiệm hoặc theo phương thức giao đã chọn. Khi bàn giao thành công, nhân viên cập nhật **Hoàn tất**; khách có thể đánh giá dịch vụ sau đó. | **F15, F20, F18** |
 
-**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Kết quả đầu ra:** Một đơn in có mã đơn, thông tin dịch vụ và cấu hình, giá trị thanh toán thử nghiệm, khung giờ/phương thức nhận, lịch sử và trạng thái xử lý để khách hàng tra cứu.
 
@@ -92,7 +92,7 @@ flowchart TD
 | **Đang giao** | Đơn được xử lý theo phương thức giao hàng đã chọn; MVP chỉ ghi nhận/cập nhật trạng thái, không theo dõi qua API hãng vận chuyển. |
 | **Hoàn tất** | Thành phẩm đã được bàn giao và đơn được xác nhận kết thúc. |
 
-**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Luồng chuẩn:** `Đã tiếp nhận → Đang in → Đang hoàn thiện → Sẵn sàng nhận / Đang giao → Hoàn tất`.
 
@@ -113,7 +113,7 @@ Trường hợp thanh toán chưa thành công hoặc đơn được yêu cầu 
 | **Khách yêu cầu hủy đơn** | Kiểm tra điều kiện hủy, ghi nhận kết quả; việc hoàn tiền (nếu có) xử lý/ghi nhận thủ công trong MVP. | F16 |
 | **Dịch vụ đặc thù chưa thể tính giá tự động** | Khách gửi yêu cầu báo giá riêng; đây là nhánh phụ, không thuộc luồng đặt in tiêu chuẩn ở trên. | F17 |
 
-**Bảng đề xuất giải quyết vấn đề hiện tại về hướng kinh doanh**
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 **Nguyên tắc chung:** Khách hàng chỉ xem được tệp và đơn hàng của mình; nhân viên chỉ truy cập đơn được phân công; quản trị viên thao tác trong phạm vi phân quyền. Chức năng quản lý bảng giá, lịch và sức chứa (F19, F21) là bước **cấu hình trước khi vận hành**, không phải thao tác của khách trong mỗi đơn đặt in.
 
