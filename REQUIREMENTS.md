@@ -20,7 +20,7 @@ Giá trị mang lại cho khách hàng
 
 PrintSlot kinh doanh dịch vụ in ấn tài liệu theo yêu cầu, phục vụ nhu cầu học tập, làm việc và tổ chức sự kiện.
 
-**Bảng 1.1 Danh mục dịch vụ của PrintSlot**
+**Danh mục dịch vụ của PrintSlot**
 
 | Tên dịch vụ | Chi tiết |
 | --- | --- |
