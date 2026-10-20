@@ -81,13 +81,12 @@ _**Nguồn: Nhóm tác giả đề xuất (2026)**_
 - **Sản phẩm:** bảng kết quả kiểm thử, danh sách lỗi đã xử lý và còn tồn tại.
 - **Tiêu chí hoàn thành:** luồng "đặt một đơn in từ đầu đến cuối" chạy không lỗi chặn; các lỗi mức cao đã sửa.
 
-### Giai đoạn 6: Triển khai và hoàn thiện (Tuần 8 – 9)
+### Giai đoạn 6: Triển khai và hoàn thiện (Tuần 8)
 - **Công việc:**
   - Triển khai bản demo lên môi trường trực tuyến, hoặc chuẩn bị hướng dẫn chạy cục bộ nếu không triển khai được.
   - Chuẩn bị dữ liệu mẫu sạch cho buổi demo, không dùng dữ liệu cá nhân thật.
   - Hoàn thiện README (cách cài đặt, chạy, tài khoản thử nghiệm), cập nhật REQUIREMENTS với phần chức năng đã làm / chưa làm, và AI_USAGE_LOG đầy đủ.
   - Viết báo cáo và tập thuyết trình; mỗi thành viên luyện giải thích phần việc mình phụ trách.
-  - Tuần 9 là dự phòng: sửa lỗi phát sinh, chạy thử demo, chốt bản nộp.
 - **Sản phẩm:** ứng dụng demo, tài liệu hướng dẫn, báo cáo, slide.
 - **Tiêu chí hoàn thành:** người ngoài nhóm chạy được hoặc truy cập được bản demo theo hướng dẫn; repo Public, không lộ thông tin bí mật.
 
