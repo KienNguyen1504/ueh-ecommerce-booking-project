@@ -1,4 +1,4 @@
-<img width="1843" height="240" alt="image" src="https://github.com/user-attachments/assets/2dcc9d25-ec88-4785-81cd-1cca37b89f8b" />**Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
+**Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
 **Sử dụng Gemini để thực hiện phân tích**
 # Thông tin dự án
 
