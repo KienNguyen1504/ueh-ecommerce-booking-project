@@ -75,7 +75,12 @@
 - Nhóm sẽ thống nhất công nghệ triển khai chính thức sau khi hoàn thành việc phân tích yêu cầu và thiết kế hệ thống.
 
 ## 6. Kế hoạch thực hiện
-Tóm tắt các giai đoạn của dự án. (xem PROJECT_PLAN.md)
+- Giai đoạn 1: Khảo sát và xác định yêu cầu.
+- Giai đoạn 2: Thiết kế giao diện.
+- Giai đoạn 3: Xây dựng các chức năng frontend.
+- Giai đoạn 4: Phát triển backend và cơ sở dữ liệu.
+- Giai đoạn 5: Tích hợp và kiểm thử.
+- Giai đoạn 6: Triển khai và hoàn thiện.
 
 ## 7. Liên kết
 - Bảng yêu cầu: REQUIREMENTS.md
