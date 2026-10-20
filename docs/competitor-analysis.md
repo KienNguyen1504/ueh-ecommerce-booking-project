@@ -1,7 +1,5 @@
 # Phân tích website tương tự
 
-**Người phụ trách:** Phương, Nhi (NV2)
-
 ## Danh sách website
 
 | Ký hiệu | Tên | URL | Người khảo sát |
