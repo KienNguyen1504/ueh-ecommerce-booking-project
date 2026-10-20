@@ -1,5 +1,3 @@
-**PIC: Phạm Văn Thắng**
-                                                                                                                  
 **Nhiệm vụ 3 – Sử dụng AI để phân tích yêu cầu**
 **Sử dụng Gemini để thực hiện phân tích**
 # Thông tin dự án
