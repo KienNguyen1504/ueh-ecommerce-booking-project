@@ -1,19 +1,28 @@
 # Project Plan
 
 ## 1. Thành viên và vai trò
-| Thành viên | Vai trò 
-|---|---|
-| Kiên | Trưởng nhóm  
-| Nhi | UI/UX 
-| Tuệ | Front-end 
-| Phương | Front-end 
-| Hoa | Back-end 
-| Thắng | Back-end 
-| Hưng | QA/Integration 
+
+**Bảng phân chia công việc và vai trò**
+
+| Thành viên | Vai trò | Trách nhiệm chính |
+|---|---|---|
+| Kiên | Trưởng nhóm / BA | Quản lý tiến độ, yêu cầu, GitHub Issues, điều phối nhóm, triển khai |
+| Nhi | UI/UX | Thiết kế giao diện, bộ thành phần giao diện dùng chung, tài nguyên hình ảnh |
+| Tuệ | Front-end | Giao diện phía khách hàng: dịch vụ, tìm kiếm, cấu hình in, tính giá; giao diện quản lý dịch vụ |
+| Phương | Front-end | Giao diện đặt hàng: giỏ hàng, đặt lịch, thanh toán, theo dõi đơn; giao diện nhân viên và thống kê |
+| Hoa | Back-end | Cơ sở dữ liệu, xác thực và phân quyền, API dịch vụ, tải tệp, tính giá |
+| Thắng | Back-end | API đơn hàng, đặt lịch và sức chứa, thanh toán thử nghiệm, trạng thái đơn, voucher |
+| Hưng | QA / Integration | Kế hoạch và kịch bản kiểm thử, kiểm tra tích hợp, quản lý lỗi, tài liệu hướng dẫn chạy |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
+Đây là vai trò chính, không phải giới hạn công việc. Các thành viên hỗ trợ nhau khi tích hợp và kiểm thử. Mỗi công việc có một người chịu trách nhiệm chính; cuối học phần, từng thành viên phải giải thích được phần việc mình phụ trách.
 
 ## 2. Các giai đoạn
 
 Thời gian thực hiện: 8 tuần. Các giai đoạn 3 và 4 chạy song song; tích hợp được thực hiện liên tục từ Tuần 5.
+
+**Bảng đề xuất giai đoạn thực hiện dự án**
 
 | Giai đoạn | Thời gian | Nội dung chính |
 |---|---|---|
@@ -23,6 +32,8 @@ Thời gian thực hiện: 8 tuần. Các giai đoạn 3 và 4 chạy song song;
 | 4. Phát triển backend và cơ sở dữ liệu | Tuần 4 – 6 | CSDL, API, nghiệp vụ tính giá, đặt lịch, thanh toán sandbox |
 | 5. Tích hợp và kiểm thử | Tuần 6 – 7 | Nối frontend với backend, kiểm thử, sửa lỗi |
 | 6. Triển khai và hoàn thiện | Tuần 8 | Triển khai, báo cáo, demo |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ### Giai đoạn 1: Khảo sát và xác định yêu cầu (Tuần 1)
 - **Công việc:**
@@ -81,6 +92,9 @@ Thời gian thực hiện: 8 tuần. Các giai đoạn 3 và 4 chạy song song;
 - **Tiêu chí hoàn thành:** người ngoài nhóm chạy được hoặc truy cập được bản demo theo hướng dẫn; repo Public, không lộ thông tin bí mật.
 
 ## 3. Công việc (Buổi 1)
+
+**Bảng phân chia công việc Buổi 1**
+
 | Mã | Người phụ trách | Kết quả cần đạt | Thời hạn | Trạng thái |
 |---|---|---|---|---|
 | NV1 | Hoa (cả nhóm góp ý) | Xác định vấn đề kinh doanh | 17/10/2026 | Hoàn thành |
@@ -91,9 +105,16 @@ Thời gian thực hiện: 8 tuần. Các giai đoạn 3 và 4 chạy song song;
 | NV6 | Hưng | docs/business-workflow.md | 19/10/2026 20:00 | Hoàn thành |
 | NV7 | Hoa | README.md, PROJECT_PLAN.md (phân công) | 19/10/2026 20:00 | Hoàn thành |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 ## 4. Rủi ro
+
+**Bảng rủi ro đề xuất** 
+
 | Rủi ro | Phương án xử lý |
 |---|---|
 | Trễ chốt đề tài làm chậm các việc phụ thuộc | Bỏ phiếu ngay trong cuộc họp, không kéo dài |
 | Xung đột khi nhiều người sửa cùng file | Mỗi file có một người chịu trách nhiệm chính, git pull trước khi sửa |
 | Lộ API key, dữ liệu cá nhân trong repo Public | Dùng .gitignore, kiểm tra trước khi push |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
