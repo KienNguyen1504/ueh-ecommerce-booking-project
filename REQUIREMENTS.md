@@ -50,7 +50,7 @@ Khách hàng đặt dịch vụ theo từng đơn in, với số lượng đư�
 |  | Quan điểm | Có xu hướng lựa chọn dịch vụ dễ thao tác, minh bạch giá và đáp ứng thời hạn nộp bài. |
 | Hành vi | Tần suất sử dụng | Phát sinh theo bài tập, kỳ thi, bài thuyết trình, báo cáo nhóm và khóa luận; có thể tăng vào giai đoạn cao điểm học kỳ. |
 |  | Kênh đặt dịch vụ | Tiệm in trực tiếp, tin nhắn/Zalo hoặc website đặt in trực tuyến. |
-| Hành vi | Lý do lựa chọn | Giá phù hợp, quy trình nhanh, vị trí thuận tiện, chất lượng đáp ứng yêu cầu và nhận thành phẩm đúng thời hạn. |
+|  | Lý do lựa chọn | Giá phù hợp, quy trình nhanh, vị trí thuận tiện, chất lượng đáp ứng yêu cầu và nhận thành phẩm đúng thời hạn. |
 |  | Mức độ trung thành | Có khả năng sử dụng lại nếu giá cả, chất lượng và thời gian nhận đáp ứng kỳ vọng; dễ cân nhắc lựa chọn khác khi có dịch vụ thuận tiện hơn. |
 
 _**Nguồn: Nhóm tác giả đề xuất (2026)**_
