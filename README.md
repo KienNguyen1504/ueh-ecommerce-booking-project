@@ -8,7 +8,7 @@
 
 ## 2. Khách hàng mục tiêu
 
-*Bảng 1.2 Phân tích đặc điểm khách hàng mục tiêu của PrintSlot**
+**Phân tích đặc điểm khách hàng mục tiêu của PrintSlot**
 
 | Nhóm tiêu chí | Thuộc tính | Khách hàng mục tiêu chính |
 | --- | --- | --- |
@@ -25,7 +25,12 @@
 | Hành vi | Lý do lựa chọn | Giá phù hợp, quy trình nhanh, vị trí thuận tiện, chất lượng đáp ứng yêu cầu và nhận thành phẩm đúng thời hạn. |
 |  | Mức độ trung thành | Có khả năng sử dụng lại nếu giá cả, chất lượng và thời gian nhận đáp ứng kỳ vọng; dễ cân nhắc lựa chọn khác khi có dịch vụ thuận tiện hơn. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 ## 3. Chức năng chính
+
+**Bảng chức năng chính**
+
 | **Mã** | **Chức năng** | **Mô tả** | **Người dùng** | **Ưu tiên** | **Tiêu chí nghiệm thu** |
 |---|---|---|---|---|---|
 | F01 | Hiển thị danh sách dịch vụ | Hiển thị các danh mục, dịch vụ và combo in ấn đang được cung cấp. | Khách chưa đăng nhập, Khách hàng | Cao | Người dùng xem được danh sách dịch vụ đang được cung cấp; mỗi dịch vụ có tên, mô tả và thông tin giá phù hợp. |
@@ -52,6 +57,8 @@
 | F22 | Thống kê tổng quan | Hiển thị các chỉ số cơ bản phục vụ theo dõi hoạt động như số lượng đơn, trạng thái đơn và doanh thu ghi nhận. | Quản trị viên hệ thống | Trung bình | Các chỉ số được tổng hợp từ dữ liệu hiện có theo tiêu chí thống kê đã xác định; giao diện hiển thị số liệu rõ ràng. |
 | F23 | Bảo vệ tệp và dữ liệu | Kiểm soát quyền truy cập dữ liệu, giới hạn truy cập tệp tải lên và kiểm tra dữ liệu đầu vào tại các chức năng liên quan. | Khách hàng, Nhân viên vận hành tiệm in, Quản trị viên hệ thống | Cao | Người dùng không có quyền không thể truy cập dữ liệu hoặc tệp riêng tư; dữ liệu đầu vào không hợp lệ bị từ chối; chức năng quản trị yêu cầu xác thực và kiểm tra quyền. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 ## 4. Thành viên
 - Kiên – Trưởng nhóm: quản lý repo, GitHub Issues (NV8), điều phối
 - Hoa – Xác định vấn đề kinh doanh (NV1), phân công vai trò (NV7)
@@ -62,11 +69,16 @@
 - Hưng – Quy trình nghiệp vụ (NV6)
 
 ## 5. Công nghệ dự kiến
+
+**Các công nghệ dự kiến triển khai**
+
 | **STT** | **Công nghệ/giải pháp dự kiến** | **Mục đích sử dụng** | **Chức năng liên quan** |
 |---|---|---|---|
 | 1 | Công thức tính giá và xử lý dữ liệu đơn hàng | Xây dựng công thức tính giá dựa trên dịch vụ, thông số in, số lượng và bảng giá được cấu hình. Khi thông số thay đổi, hệ thống tính toán lại giá dự kiến và tổng tiền. | F07 – Tính giá tự động |
 | 2 | Hệ thống luật nghiệp vụ (Rule-based) | Xây dựng các quy tắc so sánh cấu hình in để đề xuất phương án có chi phí thấp hơn. Khách hàng có thể xem gợi ý và lựa chọn giữ nguyên hoặc áp dụng cấu hình được đề xuất. | F08 – Gợi ý cấu hình tiết kiệm |
 | 3 | Cơ chế đặt lịch và kiểm tra sức chứa | Quản lý khung giờ nhận đơn, lịch hoạt động và sức chứa được cấu hình. Hệ thống kiểm tra khả năng tiếp nhận trước khi xác nhận khung giờ cho khách hàng. | F11 – Đặt lịch và kiểm tra sức chứa |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ### Nguyên tắc lựa chọn công nghệ
 - Ưu tiên giải pháp phù hợp với thời gian, nguồn lực và khả năng triển khai của nhóm.
