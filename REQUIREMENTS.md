@@ -29,11 +29,13 @@ PrintSlot kinh doanh dịch vụ in ấn tài liệu theo yêu cầu, phục v�
 | In ấn phục vụ sự kiện | In poster, bản vẽ kỹ thuật, decal và các ấn phẩm phục vụ hoạt động truyền thông khác. |
 | Combo dịch vụ | Combo khóa luận, combo in poster kèm standee (thuê hoặc mua). |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 Khách hàng đặt dịch vụ theo từng đơn in, với số lượng được tính theo trang, tờ, bản hoặc bộ tài liệu tùy loại dịch vụ. Khách hàng có thể lựa chọn cấu hình in, thời gian hoàn thành dự kiến, khung giờ nhận và phương thức giao nhận.
 
 ### 1.2. Khách hàng mục tiêu là ai?
 
-**Bảng 1.2 Phân tích đặc điểm khách hàng mục tiêu của PrintSlot**
+**Phân tích đặc điểm khách hàng mục tiêu của PrintSlot**
 
 | Nhóm tiêu chí | Thuộc tính | Khách hàng mục tiêu chính |
 | --- | --- | --- |
@@ -50,13 +52,17 @@ Khách hàng đặt dịch vụ theo từng đơn in, với số lượng đư�
 | Hành vi | Lý do lựa chọn | Giá phù hợp, quy trình nhanh, vị trí thuận tiện, chất lượng đáp ứng yêu cầu và nhận thành phẩm đúng thời hạn. |
 |  | Mức độ trung thành | Có khả năng sử dụng lại nếu giá cả, chất lượng và thời gian nhận đáp ứng kỳ vọng; dễ cân nhắc lựa chọn khác khi có dịch vụ thuận tiện hơn. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 ### 1.3. Phân tích vấn đề khách hàng và giải pháp của PrintSlot bằng mô hình Value Proposition Canvas
 
 Mô hình Value Proposition Canvas được sử dụng để xác định công việc, khó khăn và lợi ích mong đợi của khách hàng, từ đó xây dựng giải pháp có khả năng đáp ứng các nhu cầu quan trọng.
 
 ![Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot](docs/images/printslot-value-proposition-canvas.png)
 
-*Hình 1.1. Tổng hợp mô hình Value Proposition Canvas của PrintSlot (Hình ảnh có sử dụng AI).*
+**Tổng hợp mô hình Value Proposition Canvas của PrintSlot**_
+
+_**Nguồn: Hình ảnh có sử dụng AI**_
 
 **Phân tích chi tiết:** [1.3. Phân tích vấn đề khách hàng và giải pháp của PrintSlot bằng mô hình Value Proposition Canvas](https://docs.google.com/document/d/1nS6s-vEdgaIkDlv0fmnZZX75G25MTObRDletDFm4PGw/edit?usp=sharing)
 
@@ -64,9 +70,11 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 
 ![Hình 1.2. Mô hình Sweet Spot của PrintSlot](docs/images/printslot-sweet-spot.png)
 
-*Hình 1.2. Mô hình Sweet Spot của PrintSlot (Hình ảnh có sử dụng AI).*
+**Mô hình Sweet Spot của PrintSlot**
 
-**Bảng 1.10. Phân tích Sweet Spot Matrix của PrintSlot**
+_**Nguồn: Hình ảnh có sử dụng AI**_
+
+**Phân tích Sweet Spot Matrix của PrintSlot**
 
 | Thành phần | Nội dung phân tích |
 | --- | --- |
@@ -75,6 +83,8 @@ Mô hình Value Proposition Canvas được sử dụng để xác định công
 | Vòng 3 - PrintSlot Capabilities (Năng lực dự kiến của PrintSlot) | PrintSlot định hướng phát triển Smart Print Calculator (tính giá theo cấu hình), PrintSlot Scheduling (kiểm tra năng lực xử lý của từng khung giờ nhận) và Budget - friendly Printing (gợi ý cấu hình tiết kiệm). Các chức năng được thiết kế cho quy trình đặt in tài liệu học tập, báo cáo và nhu cầu in ấn theo deadline. |
 | Vùng giao thoa giữa khách hàng và đối thủ | Các nhu cầu đặt in online, báo giá và giao nhận đã được một số đối thủ đáp ứng. PrintSlot cần triển khai tốt những chức năng này như năng lực cạnh tranh cơ bản. |
 | Vùng giao thoa giữa khách hàng và PrintSlot - USP tiềm năng | PrintSlot hướng đến việc giải quyết đồng thời hai nhu cầu: chủ động thời gian nhận dựa trên khả năng tiếp nhận đơn thực tế của hệ thống và lựa chọn cấu hình in theo ngân sách. Đây là hướng khác biệt ưu tiên, nhưng chưa đủ cơ sở để khẳng định đối thủ không cung cấp chức năng tương đương. |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ### Tuyên bố giá trị khác biệt (USP)
 
@@ -88,7 +98,7 @@ Tuyên bố này thể hiện định vị cạnh tranh dự kiến, không ph�
 
 Phiên bản đầu tiên (MVP) của PrintSlot dự kiến tập trung vào các nhóm chức năng sau:
 
-**Bảng 1.11. MVP của PrintSlot**
+**MVP của PrintSlot**
 
 | Nhóm chức năng | Chức năng chính |
 | --- | --- |
@@ -107,6 +117,8 @@ Phiên bản đầu tiên (MVP) của PrintSlot dự kiến tập trung vào cá
 | Quản trị hệ thống (Admin) | Quản lý danh mục, gói dịch vụ, bảng giá, khách hàng, đơn in, trạng thái xử lý và chương trình khuyến mãi. |
 | Dashboard | Thống kê số đơn hàng, doanh thu, dịch vụ phổ biến, số khách hàng và đơn đang xử lý. |
 | Bảo mật và giao diện | Phân quyền người dùng, kiểm tra dữ liệu đầu vào, bảo vệ file tải lên và thiết kế giao diện responsive cho máy tính, điện thoại. |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 Chức năng gợi ý cấu hình in tiết kiệm được xem là hướng mở rộng có giá trị nghiệp vụ và sẽ được triển khai sau khi các chức năng cốt lõi hoạt động ổn định.
 
@@ -151,12 +163,16 @@ Các chức năng ngoài phạm vi có thể được xem xét phát triển tro
 
 PrintSlot có bốn vai trò người dùng chính trong phiên bản MVP. Mỗi vai trò được cấp quyền truy cập và thực hiện các chức năng phù hợp với nhiệm vụ của mình.
 
+**Vai trò và quyền hạn người dùng**
+
 | **Vai trò** | **Mô tả** | **Quyền hạn chính** |
 |---|---|---|
 | **Khách chưa đăng nhập** | Người truy cập website nhưng chưa đăng nhập vào tài khoản. | Xem trang chủ, danh mục, chi tiết dịch vụ, combo và thông tin giá công khai; tìm kiếm và lọc dịch vụ; tham khảo các lựa chọn in ấn. Không được thực hiện các thao tác đặt in yêu cầu đăng nhập. |
 | **Khách hàng** | Người đã đăng ký và đăng nhập tài khoản để sử dụng dịch vụ in ấn. | Quản lý thông tin cá nhân; tải tệp PDF; chọn thông số in; xem giá dự kiến và gợi ý tiết kiệm; quản lý giỏ hàng; đặt lịch in; chọn phương thức giao nhận; sử dụng voucher; thanh toán thử nghiệm; theo dõi lịch sử và trạng thái đơn hàng; yêu cầu hủy đơn theo điều kiện quy định; gửi yêu cầu báo giá và đánh giá dịch vụ sau khi đơn hoàn tất. |
 | **Nhân viên vận hành tiệm in** | Người phụ trách tiếp nhận và xử lý các đơn in trong quá trình vận hành. | Xem các đơn được phân công; truy cập tệp cần thiết để thực hiện in; kiểm tra tệp và ghi nhận lỗi; yêu cầu khách hàng bổ sung hoặc chỉnh sửa tệp khi cần; cập nhật trạng thái đơn theo quy trình; xác nhận đơn đã sẵn sàng để nhận hoặc giao. Không được tự ý thay đổi bảng giá, phân quyền hoặc cấu hình hệ thống. |
 | **Quản trị viên hệ thống** | Người quản lý cấu hình và giám sát hoạt động của website PrintSlot. | Quản lý dịch vụ, danh mục, combo và bảng giá; quản lý tài khoản và phân quyền; cấu hình voucher, lịch hoạt động, khung giờ và sức chứa nhận đơn; quản lý và theo dõi đơn hàng theo quyền được cấp; ghi nhận việc hủy đơn và xử lý hoàn tiền; xem dashboard thống kê. |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ### Nguyên tắc phân quyền
 
@@ -169,6 +185,9 @@ PrintSlot có bốn vai trò người dùng chính trong phiên bản MVP. Mỗi
 Mô tả chi tiết về nhiệm vụ, quyền hạn và nguyên tắc phân quyền của từng vai trò được trình bày trong file (docs/user-roles.md).
 
 ## 4. Yêu cầu chức năng
+
+**Bảng yêu cầu chức năng**
+
 | **Mã** | **Chức năng** | **Mô tả** | **Người dùng** | **Ưu tiên** | **Tiêu chí nghiệm thu** |
 |---|---|---|---|---|---|
 | F01 | Hiển thị danh sách dịch vụ | Hiển thị các danh mục, dịch vụ và combo in ấn đang được cung cấp. | Khách chưa đăng nhập, Khách hàng | Cao | Người dùng xem được danh sách dịch vụ đang được cung cấp; mỗi dịch vụ có tên, mô tả và thông tin giá phù hợp. |
@@ -195,7 +214,11 @@ Mô tả chi tiết về nhiệm vụ, quyền hạn và nguyên tắc phân quy
 | F22 | Thống kê tổng quan | Hiển thị các chỉ số cơ bản phục vụ theo dõi hoạt động như số lượng đơn, trạng thái đơn và doanh thu ghi nhận. | Quản trị viên hệ thống | Trung bình | Các chỉ số được tổng hợp từ dữ liệu hiện có theo tiêu chí thống kê đã xác định; giao diện hiển thị số liệu rõ ràng. |
 | F23 | Bảo vệ tệp và dữ liệu | Kiểm soát quyền truy cập dữ liệu, giới hạn truy cập tệp tải lên và kiểm tra dữ liệu đầu vào tại các chức năng liên quan. | Khách hàng, Nhân viên vận hành tiệm in, Quản trị viên hệ thống | Cao | Người dùng không có quyền không thể truy cập dữ liệu hoặc tệp riêng tư; dữ liệu đầu vào không hợp lệ bị từ chối; chức năng quản trị yêu cầu xác thực và kiểm tra quyền. |
 
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
+
 ## 5. Yêu cầu phi chức năng
+
+**Bảng yêu cầu phi chức năng**
 
 | **Mã** | **Yêu cầu** | **Mô tả** | **Tiêu chí nghiệm thu** |
 |---|---|---|---|
@@ -213,6 +236,8 @@ Mô tả chi tiết về nhiệm vụ, quyền hạn và nguyên tắc phân quy
 | NFR12 | Khả năng kiểm thử | Các chức năng quan trọng cần có điều kiện và kịch bản kiểm thử để xác minh kết quả. | Nhóm có thể kiểm thử các luồng chính như đăng nhập, tải tệp, tính giá, đặt hàng, áp dụng voucher, kiểm tra khung giờ và phân quyền người dùng. |
 | NFR13 | Khả năng tương thích trình duyệt | Website cần hoạt động trên các trình duyệt phổ biến được nhóm sử dụng để kiểm thử. | Các chức năng cốt lõi và giao diện chính hoạt động bình thường trên những trình duyệt nằm trong phạm vi kiểm thử của dự án. |
 | NFR14 | Khả năng theo dõi và tra cứu | Các thông tin quan trọng phục vụ vận hành và kiểm thử cần được lưu trữ để tra cứu khi cần thiết. | Hệ thống lưu được thông tin đơn hàng, trạng thái xử lý và kết quả thanh toán thử nghiệm; người có quyền có thể tra cứu các thông tin này. |
+
+_**Nguồn: Nhóm tác giả đề xuất (2026)**_
 
 ## 6. Giới hạn và giả định
 ### 6.1. Giới hạn
