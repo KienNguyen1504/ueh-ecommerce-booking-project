@@ -10,7 +10,7 @@
 | Nhi | UI/UX | Thiết kế giao diện, bộ thành phần giao diện dùng chung, tài nguyên hình ảnh |
 | Tuệ | Front-end | Giao diện phía khách hàng: dịch vụ, tìm kiếm, cấu hình in, tính giá; giao diện quản lý dịch vụ |
 | Phương | Front-end | Giao diện đặt hàng: giỏ hàng, đặt lịch, thanh toán, theo dõi đơn; giao diện nhân viên và thống kê |
-| Hoa | Back-end | Cơ sở dữ liệu, xác thực và phân quyền, API dịch vụ, tải tệp, tính giá |
+| Hoa | Database | Cơ sở dữ liệu, xác thực và phân quyền, API dịch vụ, tải tệp, tính giá |
 | Thắng | Back-end | API đơn hàng, đặt lịch và sức chứa, thanh toán thử nghiệm, trạng thái đơn, voucher |
 | Hưng | QA / Integration | Kế hoạch và kịch bản kiểm thử, kiểm tra tích hợp, quản lý lỗi, tài liệu hướng dẫn chạy |
 
